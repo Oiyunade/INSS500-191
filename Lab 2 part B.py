@@ -8,9 +8,6 @@ subtraction=number4-number3-number2-number1
 division=number4/number3
 print(add,mult,subtraction,division)
 
-
-
-
 number1=13
 number2=12
 number3=11
